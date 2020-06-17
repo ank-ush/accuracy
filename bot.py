@@ -29,4 +29,4 @@ async def qp(ctx,game_time:str,accuracy:str,prize_won:str,last_question:str,resu
         await ctx.send(content="@everyone white_check_mark", embed=embed)
         
         
-bot.run("NzIyNzU0Mjk5NjY2MzY2NDc1.Xunrbg.khqzeZafbaCtWEVeQzsimARU_qI")
+bot.run("NzIyNzU3NTU4OTgwMzEzMTM4.Xunudg.j38fYyawxrpM74r5POFLEttdNb8")
