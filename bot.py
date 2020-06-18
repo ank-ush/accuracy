@@ -34,4 +34,4 @@ async def send(ctx,*,msg):
             embed.set_footer(text="Made by ANKUSH乛JAIN#0676",icon_url="")
             await ctx.send(embed=embed)
 
-bot.run("NzIyNzU5OTYwOTM2NTc5MTYy.XunwtA.RDNiKbeV1RBxwZz9Il58t0ZUcSU")
+bot.run("NzIzMTQ5NDk3OTYxODA3OTUz.XutbgQ.DfONaq792292XwpvX6iXNHcYqpk")
